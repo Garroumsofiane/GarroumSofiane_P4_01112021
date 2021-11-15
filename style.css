@@ -660,7 +660,7 @@ a {
 .container {
     max-width: 1000px;
 }
-color_orange{
+.color_orange{
     color: #F3976C!important;
 }
 .hero-bloc-text {
@@ -813,11 +813,11 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.png"); 
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.webp");
+    background-image: url("img/la-chouette-agence-banniere.jpg");
     object-fit: cover;
     width: 100%;
 }
