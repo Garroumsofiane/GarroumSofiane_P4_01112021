@@ -300,11 +300,12 @@ a:hover {
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
+    width: 75%;
 }
 
 .navbar-brand img {
     max-height: 200px;
-    margin: 0 5px 0 0;
+    margin: 0 0px 0 0;
     display: inline;
 }
 
@@ -659,8 +660,8 @@ a {
 .container {
     max-width: 1000px;
 }
-.color_black{
-    color: black!important;
+.color_orange{
+    color: #F3976C!important;
 }
 .hero-bloc-text {
     font-size: 38px;
@@ -957,8 +958,8 @@ h4 {
         box-shadow: none;
     }
     .navbar-brand img {
-        max-height: 40px;
         width: auto;
+        height: 40px;
     }
     .nav-invert .navbar-header {
         float: none;
